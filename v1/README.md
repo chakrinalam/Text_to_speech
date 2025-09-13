@@ -9,3 +9,4 @@ This is a Python Text To Speech program that converts user-input text into speec
 1. Make sure you have Python 3 installed.
 2. Install this package:
       pip install pyttsx3
+      python index.py
